@@ -5,7 +5,15 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3%2B-orange.svg)](https://scikit-learn.org/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-1.7%2B-red.svg)](https://xgboost.readthedocs.io/)
 
-Este repositorio contiene la solución completa, rigurosa y reproducible de la **Tarea de Ejecución 03: Aplicar modelos CART y ensamblados**, desarrollada para el curso de **Machine Learning**.
+> ### 📌 Entrega para el Aula Virtual
+> **Indicación del curso:**
+> *"Los resultados deben ser documentados en un archivo PDF, Colab, o en un repositorio de GitHub (incluye readme donde se resumen los hallazgos) u otro en el que se evidencie la respuesta a las preguntas de las indicaciones así como el código correspondiente de los modelos entrenados. La URL correspondiente será enviada al Aula Virtual."*
+>
+> **Modalidades de visualización y entrega proporcionadas:**
+> 1. **Repositorio de GitHub + README:** Este documento resume los hallazgos, comparativas, métricas y respuestas justificadas a cada una de las preguntas de la guía.
+> 2. **Código y Modelos Entrenados:** Disponibles y completamente reproducibles en el notebook [`CART_Ensambles.ipynb`](CART_Ensambles.ipynb).
+> 3. **Google Colab:** Se puede ejecutar con un solo clic directamente desde este repositorio.
+> 4. **Exportación a PDF:** Si se requiere entregar un PDF en el Aula Virtual, el notebook puede descargarse pre-renderizado desde Colab (*Archivo* > *Imprimir* > *Guardar como PDF*).
 
 ---
 
